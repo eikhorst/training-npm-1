@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dinh T",
 	"license": "MIT",
+	"version": "2.0.0",
 	"description": "This is my most awesome project to show that I can follow instructions - yay!",
 	"keywords": ["freecodecamp", "testing", "child-suitable"],
 	"dependencies": {
