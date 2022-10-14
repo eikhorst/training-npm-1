@@ -6,8 +6,7 @@
 	"description": "This is my most awesome project to show that I can follow instructions - yay!",
 	"keywords": ["freecodecamp", "testing", "child-suitable"],
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.3.8"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
